@@ -1,9 +1,9 @@
 # Project Description: Data Mart Development for Texture Tales
 
-Problem Statement:
+# Problem Statement:
 Texture Tales, a leading retail company, aims to improve its analytical capabilities by creating a centralized data mart. The data mart will consolidate key business metrics, enabling more efficient and insightful analysis. The primary goal is to design and implement a data mart that includes essential data fields such as date, region, platform, segment, customer type, transactions, and sales.
 
-Approach:
+# Approach:
 Data Extraction:
 
 Source:
@@ -39,7 +39,7 @@ Trend Analysis:
 Identified sales trends over time, highlighting peak sales periods and seasonal variations.
 Performance Metrics: Calculated key performance indicators (KPIs) such as average transaction value, sales growth rate, and customer lifetime value.
 
-Conclusion:
+# Conclusion:
 The implementation of the data mart for Texture Tales yielded significant benefits:
 
 Centralized Data Access: 
