@@ -1,4 +1,4 @@
-Project Description: Data Mart Development for Texture Tales
+# Project Description: Data Mart Development for Texture Tales
 
 Problem Statement:
 Texture Tales, a leading retail company, aims to improve its analytical capabilities by creating a centralized data mart. The data mart will consolidate key business metrics, enabling more efficient and insightful analysis. The primary goal is to design and implement a data mart that includes essential data fields such as date, region, platform, segment, customer type, transactions, and sales.
